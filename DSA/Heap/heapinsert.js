@@ -1,7 +1,7 @@
 
 class Heap{
     constructor(){
-        this.heap=[]
+      this.heap=[]
         
     }
     getParentIndex(index){
